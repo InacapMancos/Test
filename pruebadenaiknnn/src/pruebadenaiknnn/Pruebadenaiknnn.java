@@ -9,7 +9,8 @@ public class Pruebadenaiknnn {
      */
     public static void main(String[] args) {
         System.out.println("Manco");
-        System.out.println("hoooo hermano se puede")
+        System.out.println("hoooo hermano se puede");
+        
         
     }
     
